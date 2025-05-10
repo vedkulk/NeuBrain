@@ -18,7 +18,7 @@ You can open the `index.html` file in your browser to see the web page locally.
   - Clickable links to GitHub and LinkedIn
 - Optional hover effects for interactive elements
 
-## 📁 File Structure
+## File Structure
 
 index.html
 styles.css
