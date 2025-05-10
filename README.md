@@ -2,11 +2,11 @@
 
 A simple and responsive personal biography web page built using only HTML and CSS. This project showcases a brief introduction, hobbies, a placeholder photo, and links to GitHub and LinkedIn profiles.
 
-## 🌐 Live Preview
+## Live Preview
 
 You can open the `index.html` file in your browser to see the web page locally.
 
-## ✨ Features
+## Features
 
 - Responsive layout for both desktop and mobile screens
 - Clean, semantic HTML structure
@@ -20,3 +20,5 @@ You can open the `index.html` file in your browser to see the web page locally.
 
 ## 📁 File Structure
 
+index.html
+styles.css
